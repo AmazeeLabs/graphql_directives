@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/graphql_directives",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "main": "index.js",
   "scripts": {
     "version": "sync-composer-version",
@@ -16,5 +16,5 @@
     "repository": "git@github.com:AmazeeLabs/graphql_directives.git",
     "branch": "main"
   },
-  "gitHead": "346bd2eb80b1b3e9eeb403cd9d7515f89e9836b1"
+  "gitHead": "ebfdfc9508e88fa1bf83002e4ec842954856141d"
 }
